@@ -2,4 +2,5 @@
 
 source /etc/profile
 
-/usr/bin/python3 chrome_test.py
+/usr/bin/python chrome_test.py
+
