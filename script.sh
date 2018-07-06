@@ -1,5 +1,5 @@
-#!/usr/bin/env bash
+#!/bin/bash bash
 
 source /etc/profile
 
-python chrome_test.py
+/usr/bin/python chrome_test.py
