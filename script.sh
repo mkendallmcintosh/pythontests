@@ -2,5 +2,5 @@
 
 source /etc/profile
 
-/usr/bin/python chrome_test.py
+/usr/bin/python2.7 chrome_test.py
 
